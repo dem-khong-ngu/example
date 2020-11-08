@@ -140,7 +140,6 @@ img {
 }
 /** Adbox **/
 #adbox {
-	display: block;
 	font-family: 'Arvo-Regular';
 	width: 940px;
 	margin: 0 auto;
